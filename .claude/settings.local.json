@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npm install *)",
       "Bash(grep -v \"^npm error$\")",
-      "Bash(grep -v \"^$\")"
+      "Bash(grep -v \"^$\")",
+      "Bash(xargs grep *)"
     ]
   }
 }
