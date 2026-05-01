@@ -4,7 +4,24 @@
       "Bash(npm install *)",
       "Bash(grep -v \"^npm error$\")",
       "Bash(grep -v \"^$\")",
-      "Bash(xargs grep *)"
+      "Bash(xargs grep *)",
+      "PowerShell($headers2 = @{ \"Authorization\" = \"Bearer sbp_310ad4c68b42ee7aa856adf019ac94f51f98d182\"; \"Content-Type\" = \"application/json\" })",
+      "Bash(npx supabase *)",
+      "Bash(npx tsc *)",
+      "Bash(chmod +x \"c:\\\\Users\\\\nathany\\\\OneDrive - Mercado Eletronico S A\\\\Área de Trabalho\\\\vokai\\\\vokais-solutions\\\\.git\\\\hooks\\\\pre-commit\")",
+      "Bash(npx cap *)",
+      "Bash(cat dist/client/manifest.webmanifest)",
+      "Bash(cat public/manifest.webmanifest)",
+      "Bash(xargs ls *)",
+      "Bash(supabase --version)",
+      "Read(//c/Users/nathany/.claude/projects/c--Users-nathany-OneDrive---Mercado-Eletronico-S-A--rea-de-Trabalho-vokai/memory/**)",
+      "Read(//c/Users/nathany/.claude/projects/c--Users-nathany-OneDrive---Mercado-Eletronico-S-A--rea-de-Trabalho-vokai/**)",
+      "Read(//c/c/Users/nathany/OneDrive - Mercado Eletronico S A/Área de Trabalho/vokai/vokais-solutions/**)",
+      "Read(//c/c/Users/nathany/OneDrive - Mercado Eletronico S A/Área de Trabalho/**)",
+      "Read(//c/Users/nathany/**)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\nathany\\.claude\\projects\\c--Users-nathany-OneDrive---Mercado-Eletronico-S-A--rea-de-Trabalho-vokai\\memory"
     ]
   }
 }
